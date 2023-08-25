@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28850996212",
+    "firebase_url": "https://mid-mnn-shopping-app-9a305-default-rtdb.firebaseio.com",
+    "project_id": "mid-mnn-shopping-app-9a305",
+    "storage_bucket": "mid-mnn-shopping-app-9a305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28850996212:android:69426796774e49b8cbafa1",
+        "android_client_info": {
+          "package_name": "com.example.navigationappaugust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28850996212-h4ltlk9k7es8qcld962v00l93l2k4pmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBggwpTg0hSb_2L-3KAsszRWWQy1AFQK0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28850996212-h4ltlk9k7es8qcld962v00l93l2k4pmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
